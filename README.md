@@ -23,6 +23,5 @@ Giorgino T. [Analysis libraries for molecular trajectories: a cross-language syn
 	editor = {Bonomi, Massimiliano and Camilloni, Carlo},
 	year = {2019},
 	pages = {503--527},
-	file = {Snapshot:/Users/toni/Zotero/storage/3EZCFBEV/9781493996070.html:text/html}
 }
 ```
