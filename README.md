@@ -2,8 +2,6 @@
 
 Preprint of the chapter to appear in: [Biomolecular Simulations: Methods and Protocols](https://www.springer.com/it/book/9781493996070) Edited by M. Bonomi and C. Camilloni.
 
-Giorgino T. [Analysis libraries for molecular trajectories: a cross-language synopsis](https://link.springer.com/protocol/10.1007/978-1-4939-9608-7_20). In: Bonomi M, Camilloni C, editors. [Biomolecular Simulations: Methods and Protocols](https://www.springer.com/it/book/9781493996070). Humana Press; 2019. p. 503–27. (Methods in Molecular Biology 2022).  ISBN 978-1-4939-9608-7.  [doi:10.1007/978-1-4939-9608-7_20](https://doi.org/10.1007/978-1-4939-9608-7_20)
-
 [PDF](giorgino_chapter.pdf)
 
 ## Abstract
@@ -11,6 +9,8 @@ Giorgino T. [Analysis libraries for molecular trajectories: a cross-language syn
 Analyzing the results of molecular dynamics (MD)-based simulations usually entails extensive manipulations of file formats encoding both the topology (e.g., the chemical connectivity) and configurations (the trajectory) of the simulated system. This chapter reviews a number of software libraries developed to facilitate interactive and batch analysis of MD results with scripts written in high-level, interpreted languages. It provides a beginners’ introduction to MD analysis presenting a side-by-side comparison of major scripting languages used in MD and shows how to perform common analysis tasks within the Visual Molecular Dynamics (VMD), Bio3D, MDTraj, MDAnalysis, and High-Throughput Molecular Dynamics (HTMD) environments.
 
 ## Reference
+
+Giorgino T. [Analysis libraries for molecular trajectories: a cross-language synopsis](https://link.springer.com/protocol/10.1007/978-1-4939-9608-7_20). In: Bonomi M, Camilloni C, editors. [Biomolecular Simulations: Methods and Protocols](https://www.springer.com/it/book/9781493996070). Humana Press; 2019. p. 503–27. (Methods in Molecular Biology 2022).  ISBN 978-1-4939-9608-7.  [doi:10.1007/978-1-4939-9608-7_20](https://doi.org/10.1007/978-1-4939-9608-7_20)
 
 ```
 @incollection{bonomi_analysis_2019,
