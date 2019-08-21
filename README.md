@@ -6,6 +6,11 @@ Giorgino T. [Analysis libraries for molecular trajectories: a cross-language syn
 
 [PDF](giorgino_chapter.pdf)
 
+## Abstract
+
+Analyzing the results of molecular dynamics (MD)-based simulations usually entails extensive manipulations of file formats encoding both the topology (e.g., the chemical connectivity) and configurations (the trajectory) of the simulated system. This chapter reviews a number of software libraries developed to facilitate interactive and batch analysis of MD results with scripts written in high-level, interpreted languages. It provides a beginners’ introduction to MD analysis presenting a side-by-side comparison of major scripting languages used in MD and shows how to perform common analysis tasks within the Visual Molecular Dynamics (VMD), Bio3D, MDTraj, MDAnalysis, and High-Throughput Molecular Dynamics (HTMD) environments.
+
+## Reference
 
 ```
 @incollection{bonomi_analysis_2019,
