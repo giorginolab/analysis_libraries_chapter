@@ -32,5 +32,5 @@ Listing 14: Initialization code
 -------------------
 
 The OPM files are no longer available at the URL. You may download similar files e.g. from
-the [GPCRmd])(https://submission.gpcrmd.org/home/) database.
+the [GPCRmd](https://submission.gpcrmd.org/home/) database.
 
