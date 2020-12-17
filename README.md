@@ -1,8 +1,10 @@
 # Analysis libraries for molecular trajectories: a cross-language synopsis
 
-Preprint of the chapter to appear in: [Biomolecular Simulations: Methods and Protocols](https://www.springer.com/it/book/9781493996070) Edited by M. Bonomi and C. Camilloni. [PDF available here](giorgino_chapter.pdf)
+Preprint of the chapter to appear in: [Biomolecular Simulations: Methods and Protocols](https://www.springer.com/it/book/9781493996070) Edited by M. Bonomi and C. Camilloni. 
 
-One of the purposes of this chapter is to provide students with the technical knowledge necessary to do trajectory analysis and manipulation in various programming languages and libraries.
+👉 [Preprint available here](giorgino_chapter.pdf)
+
+This chapter tries to provide students with the technical knowledge necessary to do trajectory analysis and manipulation in various programming languages and libraries. It is structured as a “Rosetta stone” showing common language constructs and analysis tasks side-by-side.
 
 ## Abstract
 
